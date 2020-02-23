@@ -59,3 +59,10 @@ Neural machine translation (NMT) offers a novel alternative formulation of trans
 -   SOTA: Seq-KD + Seq-Inter +Word-KD
     -    the model was trained on Seq-KD data 
     -    finetuned towards Seq-Inter data with the mixture cross-entropy loss at the word-level.
+
+## 5.1 Decoding Speed
+
+![1582271388962](1582271388962.png)
+
+![1582271403990](1582271403990.png)
+
